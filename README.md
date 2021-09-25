@@ -1,2 +1,0 @@
-# GA-Tech-Bootcamp
-bootcampfiles
